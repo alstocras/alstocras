@@ -22,6 +22,10 @@ i prefer to be known as a "human". my pronounes are æ, æim, and æs.
 * my favourite programming language is LaTeX. well maybe it's technically a typesetting language, but still.
 * i also like to make elaborate pipelines and checks with versioning for everything because its fun
 
+## last updated
+
+2026-05-05
+
 <!--
 **alstocras/alstocras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
