@@ -3,7 +3,7 @@ this is my personal repo! yay! i'm just a random person messing around with code
 
 ## my current projects
 
-i'm working on a book trading app. 
+i'm working on a [book trading app](https://github.com/alstocras/LibraryApp).
 
 ## learning
 
