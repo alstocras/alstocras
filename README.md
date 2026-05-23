@@ -19,12 +19,12 @@ i prefer to be known as a "human". my pronounes are æ, æim, and æs.
 
 ## fun facts
 
-* my favourite programming language is LaTeX. well maybe it's technically a typesetting language, but still.
+* my favourite programming language is Typst. well maybe it's technically a typesetting language, but still. it used to be LaTeX, but then i realized that typst is modern and doesnt assume the computer has the ram of a toaster
 * i also like to make elaborate pipelines and checks with versioning for everything because its fun
 
 ## last updated
 
-2026-05-05
+2026-05-23
 
 <!--
 **alstocras/alstocras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
