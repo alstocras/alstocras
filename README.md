@@ -21,6 +21,10 @@ i prefer to be known as a "human". my pronounes are æ, æim, and æs.
 
 * my favourite programming language is Typst. well maybe it's technically a typesetting language, but still. it used to be LaTeX, but then i realized that typst is modern and doesnt assume the computer has the ram of a toaster
 * i also like to make elaborate pipelines and checks with versioning for everything because its fun
+* my fav licence is the gnu gpl v3+ line of licences.
+
+## ideology
+i prefer foss stuff. also i support the fsf ideologically.
 
 ## last updated
 
