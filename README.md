@@ -15,7 +15,7 @@ update: *screw python, its a bourgeois language!!! slow and high level!!! i use 
 
 ## how to reach me
 
-please email me at [qzrnw@proton.me](mailto:qzrnw@proton.me).\
+please email me at [qzrnw@proton.me](mailto:qzrnw@proton.me).
 
 also i barely use github so you can find me mostly on [codeberg](https://codeberg.org/alstocras)
 
